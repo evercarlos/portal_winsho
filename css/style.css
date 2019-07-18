@@ -757,33 +757,37 @@ h4.sub-tittle {
 
 /*--responsive--*/
 
-@media(max-width:900px) {}
+@media (max-width: 900px) {
+}
 
-@media(max-width:800px) {
+@media (max-width: 800px) {
     .stats_left p {
         font-size: 2.3em;
     }
 }
 
-@media(max-width:768px) {
+@media (max-width: 768px) {
     .news-right h4,
     .ab_info h4 {
         font-size: 1.7em;
     }
 }
 
-@media(max-width:640px) {
+@media (max-width: 640px) {
     .stats_left {
         text-align: center;
         float: left;
         width: 100%;
     }
+
     .stats_left:nth-child(2) {
         border-bottom: 0px;
     }
+
     .stats_left:nth-child(1) {
         border-bottom: 0px;
     }
+
     .stats_left:nth-child(3) {
         border-bottom: 0px;
     }
@@ -1000,26 +1004,28 @@ button.btn1:hover {
     font-size: 0.9em;
 }
 
-@media(max-width:640px) {
+@media (max-width: 640px) {
     .error-404 h4 {
         font-size: 9em;
     }
 }
 
-@media(max-width:600px) {
+@media (max-width: 600px) {
     .error-404 h4 {
         font-size: 6em;
     }
+
     a.b-home {
         padding: 0.6em 1em;
         margin-top: 1em;
     }
 }
 
-@media(max-width:480px) {
+@media (max-width: 480px) {
     .error-404 h4 {
         font-size: 5em;
     }
+
     .error-404 p {
         font-size: 0.8em;
         letter-spacing: 5px;
@@ -1201,60 +1207,70 @@ a.facebook:hover {
 
 /*--responsive--*/
 
-@media(max-width:1440px) {
+@media (max-width: 1440px) {
     .services,
     .reviews_sec {
         padding: 6em 0;
     }
 }
 
-@media(max-width:1366px) {
+@media (max-width: 1366px) {
     .carousel-item {
         height: 36em;
     }
+
     .carousel-caption {
         bottom: 9em;
         width: 59%;
     }
+
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 3.5em;
         letter-spacing: 2px;
     }
+
     .style-image-2,
     .style-image-2.second {
         min-height: 530px;
     }
+
     .banner-bottom,
     .services,
     .reviews_sec {
         padding: 5em 0;
     }
+
     footer {
         padding: 4em 0;
     }
 }
 
-@media(max-width:1280px) {
+@media (max-width: 1280px) {
     .carousel-caption {
         bottom: 8em;
         width: 68%;
     }
+
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 3em;
         letter-spacing: 2px;
     }
+
     .navbar-light .navbar-nav .nav-link {
         padding: 0.3em 1em;
         font-size: 1em;
     }
+
     a.navbar-brand {
         font-size: 0.9em;
     }
+
     .carousel-item {
         height: 34em;
     }
+
     .carousel-indicators {
         bottom: 10%;
         left: 0%;
@@ -1262,51 +1278,59 @@ a.facebook:hover {
     }
 }
 
-@media(max-width:1080px) {
+@media (max-width: 1080px) {
     .carousel-caption {
         bottom: 6em;
         width: 68%;
     }
+
     .carousel-indicators {
         bottom: 8%;
         left: 0%;
         cursor: pointer;
     }
+
     .icon_info {
         padding: 3em 1em;
     }
+
     .grid_sec_info {
         padding: 7em 5em 5em 4em;
     }
 }
 
-@media(max-width:1024px) {
+@media (max-width: 1024px) {
     a.navbar-brand {
         font-size: 0.8em;
     }
+
     .navbar-light .navbar-nav .nav-link {
         padding: 0.3em 0.6em;
         font-size: 1em;
     }
 }
 
-@media(max-width:991px) {
+@media (max-width: 991px) {
     .navbar-light .navbar-nav .nav-link {
         padding: 0.3em 0.6em;
         font-size: 0.9em;
     }
+
     .style-image-2,
     .style-image-2.second {
         min-height: 437px;
     }
+
     .navbar-light .navbar-toggler {
         background: #fff;
         border-radius: 0;
         padding: 0.25rem 0.55rem;
     }
+
     ul.navbar-nav {
         text-align: left !important;
     }
+
     .tooltip-blog span {
         display: block;
         position: absolute;
@@ -1318,160 +1342,196 @@ a.facebook:hover {
         color: #fff;
         border: 1px solid #ff6a00;
     }
+
     #navbarSupportedContent {
         background: #111;
         padding: 1em;
     }
+
     li.nav-item {
         margin: 0.7em 0px;
     }
+
     .bt-bottom-info h5 {
         font-size: 2em;
         margin-bottom: 1em;
     }
+
     .bottom-sub-grid:nth-child(2) {
         margin: 2em 0;
     }
+
     .grid_info_main.mid {
         margin: 1em 0;
     }
+
     .footer-grid-w3ls {
         margin-top: 1em;
     }
+
     .copyrightbottom {
         float: none;
         text-align: center;
     }
+
     .copyrighttop {
         float: none;
         text-align: center;
         margin-bottom: 0.7em;
     }
+
     .bt-bottom-info h5 {
         font-size: 2em;
         margin-bottom: 1em;
     }
+
     .banner-inner {
         min-height: 195px;
     }
+
     footer {
         padding: 3em 0;
     }
 }
 
-@media(max-width:900px) {
+@media (max-width: 900px) {
     .banner-bottom,
     .services,
     .reviews_sec {
         padding: 4em 0;
     }
+
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 2.5em;
         letter-spacing: 2px;
     }
+
     .inner-sec-wthree {
         margin-top: 2.5em;
     }
+
     .address-right h6 {
         font-size: 1.2em;
         margin-bottom: 0.5em;
     }
+
     h3.tittle {
         font-size: 2.7em;
     }
+
     .grid_sec_info {
         padding: 4em 4em 4em 4em;
     }
+
     .grid_sec_info h3 {
         font-size: 1.5em;
     }
+
     .proj_gallery_grid1_pos h3 {
         font-size: 1.1em;
     }
 }
 
-@media(max-width:767px) {
+@media (max-width: 767px) {
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 2.3em;
         letter-spacing: 2px;
     }
+
     .testimonials_grid p {
         width: 97%;
         margin: 1em auto 0;
     }
+
     .address-grid-wthree-agileits:nth-child(1) {
         padding-left: 15px;
     }
+
     .address-grid-wthree-agileits:nth-child(2) {
         margin: 1em 0;
     }
+
     .address-grid-wthree-agileits:nth-child(3) {
         padding-right: 15px;
     }
 }
 
-@media(max-width:667px) {
+@media (max-width: 667px) {
     .carousel-item {
         height: 30em;
     }
+
     button.btn.btn-primary.play {
         width: 60px;
         height: 60px;
     }
+
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 1em;
         letter-spacing: 1px;
     }
+
     .carousel-item {
         height: 25em;
     }
+
     .carousel-caption {
         bottom: 4em;
         width: 72%;
     }
+
     .banner-bottom,
     .services,
     .reviews_sec {
         padding: 2.5em 0;
     }
+
     .inner-sec-wthree {
         margin-top: 1.5em;
     }
+
     h3.tittle {
         font-size: 2em;
     }
+
     .blog_info h5 a {
         font-size: 0.9em;
     }
+
     .testimonials_grid {
         margin: 0 auto;
         width: 80%;
     }
+
     footer {
         padding: 2em 0;
     }
+
     .style-image-2,
     .style-image-2.second {
         min-height: 352px;
     }
 }
 
-@media(max-width:640px) {
+@media (max-width: 640px) {
     .bt-bottom-info h5 {
         font-size: 1.8em;
         margin-bottom: 1em;
     }
+
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 1.8em;
         letter-spacing: 1px;
     }
+
     .grid_sec_info {
         padding: 2em 2em;
     }
+
     .testimonials_grid {
         margin: 0 auto;
         width: 100%;
@@ -1479,34 +1539,38 @@ a.facebook:hover {
 
 }
 
-@media(max-width:600px) {
+@media (max-width: 600px) {
     .carousel-caption {
         position: absolute;
         right: 0;
         left: 0%;
     }
+
     .style-image-2,
     .style-image-2.second {
         min-height: 252px;
     }
 }
 
-@media(max-width:568px) {
+@media (max-width: 568px) {
     .carousel-item {
         height: 24em;
     }
+
     .bt-bottom-info h5 {
         font-size: 1.6em;
         margin-bottom: 1em;
     }
+
     h3.tittle {
         font-size: 1.8em;
     }
 }
 
-@media(max-width:480px) {}
+@media (max-width: 480px) {
+}
 
-@media(max-width:440px) {
+@media (max-width: 440px) {
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 1.65em;
@@ -1514,12 +1578,13 @@ a.facebook:hover {
     }
 }
 
-@media(max-width:414px) {
+@media (max-width: 414px) {
     .banner-bottom,
     .services,
     .reviews_sec {
         padding: 2em 0;
     }
+
     .carousel-indicators {
         bottom: 5%;
         left: 0%;
@@ -1527,26 +1592,29 @@ a.facebook:hover {
     }
 }
 
-@media(max-width:384px) {
+@media (max-width: 384px) {
     .carousel-caption h2,
     .carousel-caption h3 {
         font-size: 1.6em;
         letter-spacing: 1px;
     }
+
     .style-image-2,
     .style-image-2.second {
         min-height: 198px;
     }
+
     .carousel-caption {
         bottom: 3em;
         width: 90%;
     }
 }
 
-@media(max-width:375px) {
+@media (max-width: 375px) {
     .carousel-item {
         height: 22em;
     }
+
     .carousel-indicators {
         bottom: 4%;
         left: 0%;
@@ -1554,6 +1622,7 @@ a.facebook:hover {
     }
 }
 
-@media(max-width:320px) {}
+@media (max-width: 320px) {
+}
 
 /*--//responsive--*/
