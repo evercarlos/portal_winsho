@@ -217,7 +217,28 @@
 </section>
 <!--//services-->
 <!---728x90--->
+<section class="grids_sec_2">
+    <div class="row style-grids_main">
+        <div class="col-md-6 style-image-2 second">
+        </div>
+        <div class="col-md-6 grid_sec_info">
+            <div class="style-grid-2-text_info" data-aos="fade-left">
+                <h3>
+                    Turning big ideas into great products.</h3>
+                <p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias consequatur.sed quia non
+                    numquam eius modi tempora incidunt ut labore .Lorem ipsum dolor sit amet,vehicula vel sapien et</p>
+                <div class="bnr-button">
+                    <button type="button" class="btn btn-primary play hide" data-toggle="modal"
+                            data-target="#exampleModal">
+                        <i class="fas fa-play"></i>
+                    </button>
+                </div>
 
+            </div>
+        </div>
+
+    </div>
+</section>
 <!---->
 <section class="grids_sec_2">
     <div class="row style-grids_main">
@@ -230,7 +251,8 @@
                 <p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias consequatur.sed quia non
                     numquam eius modi tempora incidunt ut labore .Lorem ipsum dolor sit amet,vehicula vel sapien et</p>
                 <div class="bnr-button">
-                    <button type="button" class="btn btn-primary play" data-toggle="modal" data-target="#exampleModal">
+                    <button type="button" class="btn btn-primary play hide" data-toggle="modal"
+                            data-target="#exampleModal">
                         <i class="fas fa-play"></i>
                     </button>
                 </div>
@@ -416,7 +438,7 @@
         <div class="row footer-top-w3layouts">
             <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
-                    <h2>About Us</h2>
+                    <h2>Nosotros</h2>
                 </div>
                 <div class="footer-text">
                     <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed,
@@ -426,7 +448,7 @@
             </div>
             <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
-                    <h3>Contact Us</h3>
+                    <h3>Contactenos</h3>
                 </div>
                 <div class="footer-office-hour">
                     <ul>
@@ -445,7 +467,7 @@
             </div>
             <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
-                    <h3>Recent Works</h3>
+                    <h3>trabajos recientes</h3>
                 </div>
                 <div class="footer-list">
                     <div class="flickr-grid">
@@ -498,9 +520,9 @@
             </div>
             <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
-                    <h3>Subscribe</h3>
+                    <h3>Escribenos</h3>
                 </div>
-                <p>Vivamus magna justo, lacinia eget consectetur sed.</p>
+                <p>Envianos su consulta .</p>
                 <form action="#" method="post" class="newsletter">
                     <input class="email" type="email" placeholder="Your email..." required="">
                     <button class="btn1">

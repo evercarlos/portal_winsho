@@ -19203,7 +19203,7 @@ strong {
 }
 
 .cabecera_principal {
-    background: #fff;
+    background: #2a2c31;
     position: relative;
     -webkit-box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14);
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.14);
@@ -19385,7 +19385,7 @@ strong {
 .cbp-hsmenu li a {
     font-size: 14px;
     font-weight: 500;
-    color: #0b1129;
+    color: #ecedf1; /* cabecera2*/
 }
 
 .cbp-hsmenu-wrapper .cbp-hsmenu {
@@ -19397,7 +19397,7 @@ strong {
 }
 
 .cbp-hsinner {
-    background: #fff;
+    background: transparent !important; /*cabecera1*/
     max-width: 1440px;
     margin-left: auto;
     margin-right: auto;
