@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87242a44-3cef-4453-8f87-eb99d8ee26ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/admin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-1.11.2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aos-animation.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aos-animation.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/appab5d.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/appab5d.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ab.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/ab.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/banner4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/g9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/g9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,56 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/partils/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="469" column="57" selection-end-line="604" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/partils/customer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/partils/customer_cap.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/partils/notice.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="56" selection-end-line="8" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/partils/us.php">
+        <entry file="file://$PROJECT_DIR$/css/appab5d.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="32" selection-end-line="8" selection-end-column="56" />
+            <state relative-caret-position="350">
+              <caret line="18830" column="10" selection-start-line="18830" selection-start-column="10" selection-end-line="18830" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -122,7 +56,6 @@
       <find>https://youtu.be/p56kZkF6J8g&amp;amp;feature&amp;amp;autoplay=1&amp;amp;rel=0&amp;amp;controls=0&amp;amp;showinfo=0</find>
       <find>exampleModalLabel</find>
       <find>exampleModal</find>
-      <find>logo</find>
       <find>797d88</find>
       <find>cabecera</find>
       <find>.cbp-hsmenu li a</find>
@@ -149,6 +82,7 @@
       <find>banner</find>
       <find>carousel</find>
       <find>celu</find>
+      <find>logo</find>
     </findStrings>
     <replaceStrings>
       <replace>web/images</replace>
@@ -186,7 +120,6 @@
         <option value="$PROJECT_DIR$/web/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/css/aos-animation.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/css/appab5d.css" />
         <option value="$PROJECT_DIR$/js/admin.js" />
         <option value="$PROJECT_DIR$/web/partils/customer_cap.php" />
         <option value="$PROJECT_DIR$/web/partils/customer_cp.php" />
@@ -206,6 +139,7 @@
         <option value="$PROJECT_DIR$/web/partils/customer.php" />
         <option value="$PROJECT_DIR$/web/partils/notice.php" />
         <option value="$PROJECT_DIR$/web/partils/us.php" />
+        <option value="$PROJECT_DIR$/css/appab5d.css" />
       </list>
     </option>
   </component>
@@ -245,13 +179,7 @@
             <path>
               <item name="web_vidreria" type="b2602c69:ProjectViewProjectNode" />
               <item name="web_vidreria" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web_vidreria" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web_vidreria" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="partils" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="web_vidreria" type="b2602c69:ProjectViewProjectNode" />
@@ -360,12 +288,12 @@
       <workItem from="1558616733783" duration="1190000" />
       <workItem from="1558706374075" duration="596000" />
       <workItem from="1558791463401" duration="590000" />
-      <workItem from="1563466910082" duration="22068000" />
+      <workItem from="1563466910082" duration="23034000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178163000" />
+    <option name="totallyTimeSpent" value="179129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -590,13 +518,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/appab5d.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="20323" column="9" selection-start-line="20323" selection-start-column="1" selection-end-line="20323" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/admin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -688,13 +609,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/partils/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -727,6 +641,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="32" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/partils/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/appab5d.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="18830" column="10" selection-start-line="18830" selection-start-column="10" selection-end-line="18830" selection-end-column="10" />
         </state>
       </provider>
     </entry>

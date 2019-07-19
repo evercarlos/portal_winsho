@@ -18828,7 +18828,7 @@ strong {
 
 .logo {
     width: 380px;
-    top: -42px;
+    top: 0px;
     bottom: 0;
     left: 0;
     z-index: 10;
@@ -23427,7 +23427,6 @@ article span {
 body {
     counter-reset: my-sec-counter;
 }
-
 
 
 .linea {
